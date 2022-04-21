@@ -1409,3 +1409,301 @@ left: 1032px;
 top: -108px;
 }
 
+footer{
+    background-color: #00235C;
+    position: absolute;
+    width: 100%;
+    height: 422px;
+}
+
+.retangulo{
+    position: absolute;
+width: 129.32px;
+height: 37px;
+left: 100px;
+top: 88px;
+
+background: #00235C;
+border: 1px solid #FFFFFF;
+}
+
+.quadrado{
+    position: absolute;
+width: 35.94px;
+height: 37px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+}
+
+.quadrado h2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 22.5524px;
+line-height: 18px;
+position: absolute;
+top: 9.51px;
+left: 9.51px;
+
+letter-spacing: 0.02em;
+
+color: #00235C;
+}
+
+.retangulo h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 12.6857px;
+line-height: 18px;
+
+letter-spacing: 0.02em;
+left: 45.46px;
+top: 9.51px;
+position: absolute;
+
+color: #FFFFFF;
+}
+
+.end{
+    position: absolute;
+width: 377px;
+height: 18px;
+left: 100px;
+top: 155px;
+}
+
+.end h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 18px;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+
+.email{
+    position: absolute;
+width: 208px;
+height: 18px;
+left: 100px;
+top: 203px;
+}
+
+.email h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+}
+
+.insta img{
+    position: absolute;
+left: 103px;
+right: 12.45%;
+top: 254.01px;
+bottom: 12.33%;
+}
+
+.yt img{
+    position: absolute;
+left: 157.99px;
+right: 8.33%;
+top: 256px;
+bottom: 20.78%;
+}
+
+.face img{
+    position: absolute;
+left: 214px;
+right: 8.32%;
+top: 253px;
+bottom: 8.83%;
+}
+
+.google img{
+    position: absolute;
+left: 271.02px;
+right: 14.65%;
+top: 254.06px;
+bottom: 12.86%;
+}
+
+.caixa{
+    display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 625px;
+height: 162px;
+left: 641px;
+top: 88px;
+}
+
+.coluna1{
+    position: static;
+width: 64px;
+height: 18px;
+left: 0px;
+top: 96px;
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 30px 0px;
+}
+
+.azul1{
+    position: static;
+width: 86px;
+height: 18px;
+left: 0px;
+top: 0px;
+}
+
+.azul1 h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #116CFF;
+
+}
+
+.branco1 h2{
+    position: static;
+width: 49px;
+height: 18px;
+left: 0px;
+top: 48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 18px;
+letter-spacing: 0.02em;
+margin-top: 30px;
+color: #FFFFFF;
+}
+
+.coluna2{
+    position: static;
+    width: 180px;
+    height: 18px;
+    left: 0px;
+    top: 96px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 30px 89px;
+}
+
+.azul2 h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #116CFF;
+}
+
+.branco2 h2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 18px;
+letter-spacing: 0.02em;
+margin-top: 30px;
+
+color: #FFFFFF;
+
+}
+.coluna3{
+    position: static;
+    width: 200px;
+    height: 18px;
+    left: 0px;
+    top: 96px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 30px -50px;
+}
+
+.azul3 h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #116CFF;
+}
+
+.branco3 h2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 18px;
+letter-spacing: 0.02em;
+margin-top: 30px;
+
+color: #FFFFFF;
+
+}
+
+.coluna4{
+    position: static;
+    width: 200px;
+    height: 18px;
+    left: 0px;
+    top: 96px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    margin: 30px 0px;
+}
+
+.azul4 h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #116CFF;
+}
+
+.branco4 h2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 18px;
+letter-spacing: 0.02em;
+margin-top: 30px;
+
+color: #FFFFFF;
+
+}
+
+
+
